@@ -1,5 +1,8 @@
 // TicTacToeC++.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
+// 
+//author - Soumen Mondal
+//date - 11.01.2020
+
 #define _CRT_SECURE_NO_WARNINGS
 #define _CRT_SECURE_NO_DEPRECATE  
 #define _CRT_NONSTDC_NO_DEPRECATE
